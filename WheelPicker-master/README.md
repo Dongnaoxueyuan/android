@@ -1,17 +1,10 @@
-# 最火Android开源项目WheelPicker使用
----
-开源地址：[https://github.com/open-android/WheelPicker](https://github.com/open-android/WheelPicker "开源项目地址")
-
- PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3adeb65b03f1&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)，亲，里面还有高清，无码的福利喔
+这里有更多的资料哈（shang.qq.com/wpa/qunwpa?idkey=4310b023aa9a592a667889be958934a341cf5d062ed93a41402a5fddc9056281点击我）验证码022
 
 # 运行效果
 
 ![](http://i.imgur.com/TPkIrBJ.gif)
 
-* 爱生活,爱学习,更爱做代码的搬运工,分类查找更方便请下载黑马助手app
 
-
-![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 使用步骤
 
@@ -66,4 +59,4 @@
 
 * 欢迎关注微信公众号
 
-![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
+![](http://mmbiz.qpic.cn/mmbiz_jpg/SGLMEl6egy86amMN9XlltwZamViaKibz8J4aVZB5XqU1SwIhLHe3ZMiaTv4tMmNo0YUqJbZbrjfsQemWnp0LpeSpg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
