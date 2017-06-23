@@ -1,4 +1,4 @@
-这里有更多的资料哈（shang.qq.com/wpa/qunwpa?idkey=4310b023aa9a592a667889be958934a341cf5d062ed93a41402a5fddc9056281）验证码022
+这里有更多的资料哈http://shang.qq.com/wpa/qunwpa?idkey=4310b023aa9a592a667889be958934a341cf5d062ed93a41402a5fddc9056281验证码022
 
 # 运行效果
 
